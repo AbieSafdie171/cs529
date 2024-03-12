@@ -125,8 +125,8 @@ int main()
 
   matmul(&a, &b, &c);
 
-  printf("The product is :\n");
-  matout(&c);
+  // printf("The product is :\n");
+  // matout(&c);
 
   return EXIT_SUCCESS;
 
